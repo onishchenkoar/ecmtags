@@ -17,7 +17,7 @@ Defines a URL or javascript that will be executed.
 * A required [\<label>](./label.md) element that specifies the label on the button. 
 * An optional [\<tool-tip>](./tool-tip.md) element that provides a tool tip for actions that are rendered as buttons. For [\<grid-action>](./grid-action.md) elements with render-type set to row, this parameter is ignored. 
 * A required [\<url>](./url.md) element that specifies the action being called. 
-* [\<eval>](./eval.md) &mdash; This element is a child of the [\<url>](./url.md) element. The text of this element is treated as an expression and evaluated. 
+* [\<eval>](./eval.md) &mdash; this element is a child of the [\<url>](./url.md) element. The text of this element is treated as an expression and evaluated. 
 * An optional [\<image>](./image.md) element that defines the URL used to retrieve the image. This is needed when the value for render-type is `row`. 
 * Zero or more [\<param>](./param.md) elements, which are used for [\<datagrid>](./datagrid.md) components. 
 * An optional [\<validations>](./validations.md) element that contains any validations that must evaluate to true for the GridAction to execute. 
