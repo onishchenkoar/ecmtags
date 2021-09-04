@@ -4,9 +4,7 @@ This is a reproduction of section *Valid XML Elements and Descriptions for User 
 
 ---
 
-# Index
-
-The tags are listed alphabetically.
+# Index (alphabetically)
 
 ||||
 |:---|:---|:---|
