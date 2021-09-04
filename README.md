@@ -6,28 +6,20 @@ This is a reproduction of section *Valid XML Elements and Descriptions for User 
 
 # Index
 
-|1|2|
-|:---|:---|
-|[\<app-title>](./app-title.md)|[\<label>](./label.md)|
-|[\<call>](./call.md)|[\<layout-info>](./layout-info.md)|
-|[\<callback>](./callback.md)|[\<menu>](./menu.md)|
-|[\<column-layout>](./column-layout.md)|[\<message>](./message.md)|
-|[\<column>](./column.md)|[\<on-change>](./on-change.md)|
-|[\<component>](./component.md)|[\<on-select>](./on-select.md)|
-|[\<datagrid-column-sorter>](./datagrid-column-sorter.md)|[\<param>](./param.md)|
-|[\<datagrid-column>](./datagrid-column.md)|[\<refresh>](./refresh.md)|
-|[\<datagrid-renderer-ref>](./datagrid-renderer-ref.md)|[\<screen>](./screen.md)|
-|[\<datagrid-renderer>](./datagrid-renderer.md)|[\<section>](./section.md)|
-|[\<datagrid>](./datagrid.md)|[\<set-required>](./set-required.md)|
-|[\<datastore-ref>](./datastore-ref.md)|[\<set-value>](./set-value.md)|
-|[\<datastore>](./datastore.md)|[\<set-values>](./set-values.md)|
-|[\<errmsg>](./errmsg.md)|[\<set-visible>](./set-visible.md)|
-|[\<false-label>](./false-label.md)|[\<set>](./set.md)|
-|[\<field>](./field.md)|[\<tab-section>](./tab-section.md)|
-|[\<filter>](./filter.md)|[\<tab>](./tab.md)|
-|[\<finalize>](./finalize.md)|[\<tool-tip>](./tool-tip.md)|
-|[\<function>](./function.md)|[\<true-label>](./true-label.md)|
-|[\<grid-action>](./grid-action.md)|[\<ui-definition>](./ui-definition.md)|
-|[\<help-text>](./help-text.md)|[\<validation>](./validation.md)|
-|[\<if>](./if.md)|[\<validations>](./validations.md)|
-|[\<initialize>](./initialize.md)||
+||||
+|:---|:---|:---|
+|[\<app-title>](./app-title.md)|[\<field>](./field.md)|[\<refresh>](./refresh.md)|
+|[\<call>](./call.md)|[\<filter>](./filter.md)|[\<screen>](./screen.md)|
+|[\<callback>](./callback.md)|[\<finalize>](./finalize.md)|[\<section>](./section.md)|
+|[\<column-layout>](./column-layout.md)|[\<function>](./function.md)|[\<set-required>](./set-required.md)|
+|[\<column>](./column.md)|[\<grid-action>](./grid-action.md)|[\<set-value>](./set-value.md)|
+|[\<component>](./component.md)|[\<help-text>](./help-text.md)|[\<set-values>](./set-values.md)|
+|[\<datagrid-column-sorter>](./datagrid-column-sorter.md)|[\<if>](./if.md)|[\<set-visible>](./set-visible.md)|
+|[\<datagrid-column>](./datagrid-column.md)|[\<initialize>](./initialize.md)|[\<set>](./set.md)|
+|[\<datagrid-renderer-ref>](./datagrid-renderer-ref.md)|[\<label>](./label.md)|[\<tab-section>](./tab-section.md)|
+|[\<datagrid-renderer>](./datagrid-renderer.md)|[\<layout-info>](./layout-info.md)|[\<tab>](./tab.md)|
+|[\<datagrid>](./datagrid.md)|[\<menu>](./menu.md)|[\<tool-tip>](./tool-tip.md)|
+|[\<datastore-ref>](./datastore-ref.md)|[\<message>](./message.md)|[\<true-label>](./true-label.md)|
+|[\<datastore>](./datastore.md)|[\<on-change>](./on-change.md)|[\<ui-definition>](./ui-definition.md)|
+|[\<errmsg>](./errmsg.md)|[\<on-select>](./on-select.md)|[\<validation>](./validation.md)|
+|[\<false-label>](./false-label.md)|[\<param>](./param.md)|[\<validations>](./validations.md)|
