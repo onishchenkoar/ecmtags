@@ -5,6 +5,7 @@ This is a reproduction of section *Valid XML Elements and Descriptions for User 
 ---
 
 # Index
+|1|2|
 |:---|:---|
 |[\<app-title>](./app-title.md)|[\<initialize>](./initialize.md)|
 |[\<call>](./call.md)|[\<label>](./label.md)|
