@@ -8,8 +8,8 @@ This is a reproduction of section *Valid XML Elements and Descriptions for User 
 
 ||||
 |:---|:---|:---|
-|[\<action>](./action.md)|[\<false-label>](./false-label.md)|[\<refresh>](./refresh.md)|
-|[\<action-group>](./action-group.md)|[\<field>](./field.md)|[\<screen>](./screen.md)|
+|[\<action-group>](./action-group.md)|[\<false-label>](./false-label.md)|[\<refresh>](./refresh.md)|
+|[\<action>](./action.md)|[\<field>](./field.md)|[\<screen>](./screen.md)|
 |[\<app-title>](./app-title.md)|[\<filter>](./filter.md)|[\<section>](./section.md)|
 |[\<call>](./call.md)|[\<finalize>](./finalize.md)|[\<set-required>](./set-required.md)|
 |[\<callback>](./callback.md)|[\<function>](./function.md)|[\<set-value>](./set-value.md)|
