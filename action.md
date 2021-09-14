@@ -30,3 +30,5 @@ The [\<action>](./action.md) element enables you to provide links and buttons on
 * An optional [\<label>](./label.md) element. This element provides the window label or title.
 * An optional [\<param>](./param.md) element. This element provides parameters for the URL.
 * An optional [\<url>](./url.md) element. This element is used if an attribute URL is not specified. It provides a more convenient way to specify a URL.
+
+[Back to index](./README.md)
