@@ -12,7 +12,7 @@ The [\<action>](./action.md) element enables you to provide links and buttons on
 
 * `id`(optional) &mdash; specifies the ID field.
 
-* `output‑destination`(optional) &mdash; specifies the output format, either `window` or `inline`. The default is `window`. A value of `window` specifies showing the result page in a pop-up window. A value of `inline` specifies no change in the structure of the current page, and no pop-up window. The `output‑destination` could be a field replacement javascript call. The value ignore specifies a server side trigger, with no UI change.
+* `output‑destination`(optional) &mdash; specifies the output format, either `window` or `inline`. The default is `window`. A value of `window` specifies showing the result page in a pop-up window. A value of `inline` specifies no change in the structure of the current page, and no pop-up window. The `output‑destination` could be a field replacement javascript call. The value `ignore` specifies a server side trigger, with no UI change.
 
 * `sas‑sso`(optional) &mdash; this is a Boolean field that decides whether to do a SAS single sign-on automatically. The default is false.
 
