@@ -1,4 +1,4 @@
-A short reference for XML tags used in SAS Enterprise Case Management.
+A short reference for XML tags used in SAS Enterprise Case Management for interface design.
 
 This is a reproduction of section *Valid XML Elements and Descriptions for User Interface Definitions* in chapter 6 of the [official administrator's guide PDF](https://support.sas.com/documentation/onlinedoc/ecm/6.3/casemgmtag.pdf).
 
