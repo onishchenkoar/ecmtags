@@ -11,4 +11,7 @@ Contains the contents of a single column in a [\<column-layout>](./column-layout
 ### Child elements:
 * Any number of [\<field>](./field.md), [\<section>](./section.md), [\<tab-section>](./tab-section.md), [\<column-layout>](./column-layout.md), or [\<if>](./if.md) elements.
 
+### Parent elements:
+* [\<column-layout>](./column-layout.md)
+
 [Back to index](./README.md)

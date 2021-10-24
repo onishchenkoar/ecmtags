@@ -17,4 +17,7 @@ A tab is nested under a [\<tab-section>](./tab-section.md) and defines a tab pag
 * Zero or more [\<validation>](./validation.md) elements, which are evaluated when the user clicks Save. 
 * Zero or more [\<action-group>](./action-group.md) elements.
 
+### Parent elements:
+* [\<tab-section>](./tab-section.md)
+
 [Back to index](./README.md)

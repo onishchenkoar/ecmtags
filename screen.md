@@ -23,4 +23,7 @@ Describes the appearance and behavior of a single screen.
 * Any number of [\<action-group>](./action-group.md), [\<field>](./field.md), [\<datagrid>](./datagrid.md), [\<datastore>](./datastore.md), [\<section>](./section.md), [\<tab-section>](./tab-section.md), [\<column-layout>](./column-layout.md), or [\<if>](./if.md) elements. 
 * An optional [\<finalize>](./finalize.md) section that describes any validations or computations that must be performed when the user clicks Save.
 
+### Parent elements:
+* [\<ui-definition>](./ui-definition.md)
+
 [Back to index](./README.md)

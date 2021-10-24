@@ -10,4 +10,15 @@ A test that is performed at the screen, section, or field level. The test is eva
 ### Child elements:
 * An [\<errmsg>](./errmsg.md) element that describes the message to display if the test fails.
 
+### Parent elements:
+* [\<datagrid>](./datagrid.md)
+* [\<field>](./field.md)
+* [\<finalize>](./finalize.md)
+* [\<finalize>](./finalize.md)
+* [\<initialize>](./initialize.md)
+* [\<initialize>](./initialize.md)
+* [\<section>](./section.md)
+* [\<tab>](./tab.md)
+* [\<validations>](./validations.md)
+
 [Back to index](./README.md)

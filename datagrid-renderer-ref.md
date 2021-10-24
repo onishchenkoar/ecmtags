@@ -8,4 +8,7 @@ Specifies what renderer will be used to format cell contents in a DataGrid colum
 * `id`(required) &mdash; the ID of a DataGrid renderer.
 * `args`(optional) &mdash; optional arguments to the renderer. Multiple arguments are separated by colons (:). Not all renderers take arguments.
 
+### Parent elements:
+* [\<datagrid-column>](./datagrid-column.md)
+
 [Back to index](./README.md)

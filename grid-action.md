@@ -23,4 +23,8 @@ Defines a URL or javascript that will be executed.
 * An optional [\<validations>](./validations.md) element that contains any validations that must evaluate to true for the GridAction to execute. 
 * An optional [\<callback>](./callback.md) element that defines an action that will be executed on completion of the original action call.
 
+### Parent elements:
+* [\<datagrid>](./datagrid.md)
+* [\<grid-action>](./grid-action.md)
+
 [Back to index](./README.md)

@@ -11,4 +11,7 @@ A group of dynamic actions to be executed when a row is selected in the DataGrid
 * Zero or more [\<refresh>](./refresh.md) elements. 
 * Zero or more [\<call>](./call.md) elements.
 
+### Parent elements:
+* [\<datagrid>](./datagrid.md)
+
 [Back to index](./README.md)

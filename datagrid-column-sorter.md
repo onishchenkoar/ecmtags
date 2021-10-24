@@ -10,4 +10,7 @@ Specifies sorting logic for a DataGrid column.
 ### Child elements:
 * Zero or more [\<param>](./param.md) elements.
 
+### Parent elements:
+* [\<datagrid-column>](./datagrid-column.md)
+
 [Back to index](./README.md)

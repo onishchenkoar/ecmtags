@@ -27,7 +27,7 @@ Describes a prompt for user input.
 * `minSelectableDate`(optional) &mdash; minimum selectable date.
 * `maxSelectableDate`(optional) &mdash; maximum selectable date.
 * `default`(optional) &mdash; an expression whose value is used as the default value for the field. This value is used only when creating a new object.
-* `values`(optional) &mdash; an expression whose value is a list of items used to populate a drop-down list, check box, or radio button group. Each item in the list is a label and value pair, where label is the displayed value, and value is the internally used value. Using the values attribute with a check box displays a group of check boxes to be multi-selected.[\<br>](./br.md) __Note__: Although multiple values for a string, number, Boolean, or text area type field are permissible, a result will not be set if used, since these field types can handle only a single value.
+* `values`(optional) &mdash; an expression whose value is a list of items used to populate a drop-down list, check box, or radio button group. Each item in the list is a label and value pair, where label is the displayed value, and value is the internally used value. Using the values attribute with a check box displays a group of check boxes to be multi-selected.<br>__Note__: Although multiple values for a string, number, Boolean, or text area type field are permissible, a result will not be set if used, since these field types can handle only a single value.
 * `align`(optional) &mdash; the alignment of the input field’s label. Valid values are `top`, `left`, and `inline`. The default is `left`.
 * `required`(optional) &mdash; an expression that is evaluated by the expression handler to determine whether the user must complete the field before saving. Default is `false`.
 * `visible`(optional) &mdash; an expression that is evaluated by the expression handler to determine whether the field is visible. Default is `true`.
@@ -42,5 +42,12 @@ Describes a prompt for user input.
 * An optional [\<on-change>](./on-change.md) element, which describes any dynamic actions to be executed when the field value changes. 
 * An optional [\<true-label>](./true-label.md) element, which is applicable only if `type=“boolean”`. 
 * An optional [\<false-label>](./false-label.md) element, which is applicable only if `type=“boolean”`.
+
+### Parent elements:
+* [\<column>](./column.md)
+* [\<if>](./if.md)
+* [\<screen>](./screen.md)
+* [\<section>](./section.md)
+* [\<tab>](./tab.md)
 
 [Back to index](./README.md)

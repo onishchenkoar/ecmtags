@@ -11,4 +11,8 @@ Allows the layout of fields in multiple columns.
 ### Child elements:
 * Any number of [\<column>](./column.md) or [\<if>](./if.md) elements.
 
+### Parent elements:
+* [\<column>](./column.md)
+* [\<screen>](./screen.md)
+
 [Back to index](./README.md)

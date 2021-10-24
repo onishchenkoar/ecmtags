@@ -14,4 +14,7 @@ Provides a single column entry to a DataGrid.
 * An optional [\<datagrid-renderer-ref>](./datagrid-renderer-ref.md) element that defines how to format the column data. 
 * An optional [\<datagrid-column-sorter>](./datagrid-column-sorter.md) element that defines how the column should be sorted.
 
+### Parent elements:
+* [\<datagrid>](./datagrid.md)
+
 [Back to index](./README.md)

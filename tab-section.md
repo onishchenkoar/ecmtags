@@ -10,4 +10,8 @@ A [\<tab-section>](./tab-section.md) element can be nested under a [\<section>](
 ### Child elements:
 * One or more [\<tab>](./tab.md) elements.
 
+### Parent elements:
+* [\<column>](./column.md)
+* [\<screen>](./screen.md)
+
 [Back to index](./README.md)

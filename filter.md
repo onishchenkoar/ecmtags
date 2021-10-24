@@ -8,4 +8,7 @@ Adds a filter expression that is run for each possible record in a DataGrid. Eac
 * `name`(optional) &mdash; the name of this filter.
 * `value`&mdash; the expression that must evaluate to true for a row to be displayed.
 
+### Parent elements:
+* [\<datagrid>](./datagrid.md)
+
 [Back to index](./README.md)

@@ -10,4 +10,13 @@ The label or prompt displayed for a field. If styled input is required (for exam
 ### Child elements:
 * The child text of this component makes up the label text. It can contain any number of [\<message>](./message.md) and [\<eval>](./eval.md) elements.
 
+### Parent elements:
+* [\<action>](./action.md)
+* [\<datagrid-column>](./datagrid-column.md)
+* [\<datagrid>](./datagrid.md)
+* [\<field>](./field.md)
+* [\<grid-action>](./grid-action.md)
+* [\<section>](./section.md)
+* [\<tab>](./tab.md)
+
 [Back to index](./README.md)
