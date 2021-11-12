@@ -25,6 +25,5 @@ Defines a URL or javascript that will be executed.
 
 ### Parent elements:
 * [\<datagrid>](./datagrid.md)
-* [\<grid-action>](./grid-action.md)
 
 [Back to index](./README.md)
