@@ -10,6 +10,5 @@ Specifies the action being called when using [\<grid-action>](./grid-action.md).
 ### Parent elements:
 * [\<action>](./action.md)
 * [\<grid-action>](./grid-action.md)
-* [\<grid-action>](./grid-action.md)
 
 [Back to index](./README.md)
