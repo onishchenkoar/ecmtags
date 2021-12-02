@@ -26,7 +26,6 @@ Describes a grid of tabular data.
 * An optional [\<on-select>](./on-select.md) element, which describes any dynamic actions to be executed when a row is selected in the data grid.
 
 ### Parent elements:
-* [\<grid-action>](./grid-action.md)
 * [\<screen>](./screen.md)
 
 [Back to index](./README.md)
